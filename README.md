@@ -1,16 +1,15 @@
 ## Hi there 👋
+🚀 Future Software Engineer | Cybersecurity & AI Enthusiast
+Currently evolving in the tech universe, I focus my studies on Software Engineering with a keen eye on the intersection between Artificial Intelligence and Information Security. I believe that high-quality code shouldn't just be functional—it must be inherently secure and innovative. 🛡️
 
-<!--
-**kaikkc/Kaikkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my technical arsenal, I highlight:
 
-Here are some ideas to get you started:
+💻 Languages: Java and C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interests: Generative AI and Cyber Defense.
+
+📢 Soft Skills: Active leadership and assertive communication.
+
+I am looking to apply my technical foundation and leadership skills to projects that challenge the status quo and transform ideas into robust solutions.🤝
+
+Contact me: kaikacabral@gmail.com | +55 (86) 98192-1987
